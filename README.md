@@ -1,9 +1,9 @@
 # to-do-app 📅
- Aplicação ToDo List criada no curso de ReactJS da Cod3r Cursos.
+ **Aplicação ToDo List criada no curso de ReactJS da Cod3r Cursos.**
  
- <img src="print-app.png" width="600px"/>
+ <img src="print-app.png"/>
  
- # Tecnologias usadas:
+ ## 🚀 Tecnologias usadas:
   * NodeJS no backend com Express;
   * PM2;
   * MongoDB e Mongoose;
@@ -11,7 +11,7 @@
   * ReactJS no frontend(componentes funcionais e de classes);
   * Estilo com Bootstrap;
 
-# Funcionalidades:
+# 📲 Funcionalidades:
  * Criar uma nova tarefa;
  * Buscar por uma tarefa existente;
  * Marcar a tarefa com feita;
